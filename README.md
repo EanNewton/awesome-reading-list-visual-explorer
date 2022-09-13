@@ -23,14 +23,14 @@ The idea behind its creation is by being able to quickly understand visually the
 If this repository is not the template itself, suggest you move the section below up to the top & move the first paragraph to below this line.
 
 ## Description of this code repository if not the template:
-WRITE YOUR PURPOSE OF THE REPOSITORY HERE
+A curated and opinionated collection of awesome techy things to read on a lunch break. Never stop learning!
 
-- Repository Name: 
-- Repository Authors: 
-- Purpose:
-- Link To Awesome List Parsed In This Code Project:
+- Repository Name: Awesome-Reading-List
+- Repository Authors: EanNewton
+- Purpose: Collection of articles and tidbits that I have found useful or interesting.
+- Link To Awesome List Parsed In This Code Project: https://github.com/EanNewton/Awesome-Reading-List
 - Link to Live Website: <b><a href="">none yet</a></b>
-- Last Ran in Full On: YYYY-MM-DD
+- Last Ran in Full On: 2022-09-13
 
 ## Key Pages That The Template Builds
 ##### Front Page
